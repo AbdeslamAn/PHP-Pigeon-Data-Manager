@@ -1,7 +1,9 @@
-<h1 align="center">Fly Higher</h1><br>
+<h1 align="center">Pigeon Data Management Web Application</h1><br>
 
- 
- >  🌍 [English](#-english) · [Deutsch](#-deutsch) · [Français](#-français) <br><br>
+ ## 🌐 (Available Languages)
+
+  
+ [English](#-english) | [Deutsch](#-deutsch) | [Français](#-français) <br><br>
 
 
 
